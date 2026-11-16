@@ -1,0 +1,5 @@
+calls_per_30min,agents_needed,occupancy_%
+10,4,41.7
+50,12,69.4
+100,21,79.4
+200,39,85.5

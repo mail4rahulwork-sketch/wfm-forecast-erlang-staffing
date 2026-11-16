@@ -1,0 +1,4 @@
+method,MAPE_%,WAPE_%,bias_%
+avg_4wk,14.1,13.1,-0.7
+weighted_4wk,14.1,13.2,-0.2
+seasonal_naive,17.2,16.1,0.7
